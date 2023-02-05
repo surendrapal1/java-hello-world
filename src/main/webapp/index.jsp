@@ -3,7 +3,7 @@
   <h2>Hello surendra this side</h2>
 <h3>Welcome to Cloud With Hammad| Microsoft Certified Security Engineer, Azure & AWS Solution Architect </h3>
   
-<marquee>Welcome to Cloud With Hammad</marquee>
+<marquee>Welcome to Cloud with Surendra Pal</marquee>
 
 <marquee direction="up">Welcome to Cloud With Hammad| DEVOPS </marquee>
 
